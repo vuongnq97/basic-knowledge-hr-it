@@ -21,7 +21,7 @@ Nếu Front End Developer có quyền lực kiến tạo nên vẻ đẹp của 
 Back End Developer là người quyết định cách thức website được vận hành. Người vô cùng quan trọng.
 
 ### Framework
-Framework là các đoạn code đã được viết sẵn, cấu thành nên một bộ khung và các thư viện lập trình được đóng gói. Chúng cung cấp các tính năng có sẵn như mô hình, API và các yếu tố khác để tối giản cho việc phát triển các ứng dụng web phong phú, năng động. Các framework giống như là chúng ta có khung nhà được làm sẵn nền móng cơ bản, bạn chỉ cần vào xây dựng và nội thất theo ý mình.
+Framework là các đoạn code đã được viết sẵn, cấu thành nên một bộ khung và các thư viện lập trình được đóng gói. Chúng cung cấp các tính năng có sẵn như mô hình, [API](https://itviec.com/blog/api-la-gi/) và các yếu tố khác để tối giản cho việc phát triển các ứng dụng web phong phú, năng động. Các framework giống như là chúng ta có khung nhà được làm sẵn nền móng cơ bản, bạn chỉ cần vào xây dựng và nội thất theo ý mình.
 Mỗi ngôn ngữ lập trình(Programming Language) có thể có một hoặc nhiều Framework khác nhau.
 
 ## FE Framework và Programming Language 
