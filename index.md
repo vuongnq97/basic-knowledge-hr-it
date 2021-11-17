@@ -11,6 +11,7 @@
     4. Designer
     5. DevOps
     6. Database Designer
+    ...
 
 ## Front-End (FE) 
 Front End (còn được biết đến như client-side) là tất cả những gì liên quan đến điều mà người dùng nhìn thấy mỗi khi truy cập vào một trang web, bao gồm phạm trù thiết kế và các ngôn ngữ như HTML hay CSS.
@@ -31,6 +32,7 @@ Back End Developer là người quyết định cách thức website được v�
             - After Js
         - Vue Js
         - Nuxt Js
+     ...
     
 ## BE Framework và Programming Language 
     1. Java
@@ -38,6 +40,7 @@ Back End Developer là người quyết định cách thức website được v�
     3. PHP
     4. Python
     5. Ruby
+    ...
     
 ## Mobile Framework và Programming Language 
     1. Programming Language 
@@ -52,6 +55,7 @@ Back End Developer là người quyết định cách thức website được v�
         - Flutter
         - Ionit
         - Xamarin
+    ...
 
 - [Đọc thêm Mobile Programming Language](https://bizfly.vn/techblog/ngon-ngu-lap-trinh-ung-dung.html)
 - [Đọc thêm Mobile Framework](https://igb.vn/vn/top-5-framework-phat-trien-ung-dung-di-dong-da-nen-tang-a53.html)
