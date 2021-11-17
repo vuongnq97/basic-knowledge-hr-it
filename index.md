@@ -11,7 +11,6 @@
     4. Designer
     5. DevOps
     6. Database Designer
-    ...
 
 ## Front-End (FE) 
 Front End (còn được biết đến như client-side) là tất cả những gì liên quan đến điều mà người dùng nhìn thấy mỗi khi truy cập vào một trang web, bao gồm phạm trù thiết kế và các ngôn ngữ như HTML hay CSS.
@@ -20,6 +19,11 @@ Người dùng tương tác trực tiếp với nhiều khía cạnh thuộc fro
 ## Back-End  (BE)
 Nếu Front End Developer có quyền lực kiến tạo nên vẻ đẹp của các trang web, thì Back End developer là người xử lý mọi logic nghiệp vụ phức tạp ở ẩn ở phía sau, giúp cho hệ thống hoạt động trơn tru. Dữ liệu của người dùng, thuật toán phân tích … đều nằm ở back-end. Lấy ví dụ: trên trang face, khi bạn post 1 status, để status ấy được lưu trữ thì cần backend, để status ấy hiển thị cho bạn bè của bạn xem thì cũng cần backend, để status ấy lưu những react (love, phẫn nộ, woo...haha) cũng cần backend …
 Back End Developer là người quyết định cách thức website được vận hành. Người vô cùng quan trọng.
+
+### Framework
+Framework là các đoạn code đã được viết sẵn, cấu thành nên một bộ khung và các thư viện lập trình được đóng gói. Chúng cung cấp các tính năng có sẵn như mô hình, API và các yếu tố khác để tối giản cho việc phát triển các ứng dụng web phong phú, năng động. Các framework giống như là chúng ta có khung nhà được làm sẵn nền móng cơ bản, bạn chỉ cần vào xây dựng và nội thất theo ý mình.
+Mỗi ngôn ngữ lập trình(Programming Language) có thể có một hoặc nhiều Framework khác nhau.
+
 ## FE Framework và Programming Language 
     HTML, CSS
     1. Programming Language   
@@ -32,7 +36,6 @@ Back End Developer là người quyết định cách thức website được v�
             - After Js
         - Vue Js
         - Nuxt Js
-     ...
     
 ## BE Framework và Programming Language 
     1. Java
@@ -40,7 +43,6 @@ Back End Developer là người quyết định cách thức website được v�
     3. PHP
     4. Python
     5. Ruby
-    ...
     
 ## Mobile Framework và Programming Language 
     1. Programming Language 
@@ -55,7 +57,6 @@ Back End Developer là người quyết định cách thức website được v�
         - Flutter
         - Ionit
         - Xamarin
-    ...
 
 - [Đọc thêm Mobile Programming Language](https://bizfly.vn/techblog/ngon-ngu-lap-trinh-ung-dung.html)
 - [Đọc thêm Mobile Framework](https://igb.vn/vn/top-5-framework-phat-trien-ung-dung-di-dong-da-nen-tang-a53.html)
